@@ -1,6 +1,7 @@
 PRIMEIRA CERTIFICAÇÃO: https://cursos.alura.com.br/certificate/995eafd0-631c-44c9-8246-2afdd2a6fe42
 
 ANOTAÇÕES:
+MongoDB Atlas: https://cloud.mongodb.com/v2#/org/6436fb4e07986f2f42c12e8b/projects
 1 - npm init
 2 - npm install nodemon // Live Reload ("npm run dev" para executar o script "dev" no package.json)
 3 - Criação da propriedade "dev" dentro de "scripts" no package.json para executar automaticamente o nodemon (npm run dev)
