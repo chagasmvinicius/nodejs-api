@@ -1,4 +1,4 @@
-PRIMEIRA CERTIFICAÇÃO: 
+PRIMEIRA CERTIFICAÇÃO: https://cursos.alura.com.br/certificate/995eafd0-631c-44c9-8246-2afdd2a6fe42
 
 ANOTAÇÕES:
 1 - npm init
